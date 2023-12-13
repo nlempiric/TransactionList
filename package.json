@@ -1,7 +1,22 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "@solana/web3.js": "^1.87.6",
     "avalanche": "^3.16.0",
     "nodemon": "^3.0.1"
+=======
+  "name": "transactionlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "List.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.7.2"
+>>>>>>> 58399112bc0f13d98ce7f10a23de90ed9d14d033
   }
 }
